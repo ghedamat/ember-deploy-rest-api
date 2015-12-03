@@ -1,5 +1,8 @@
 # Ember-deploy-rest-api
 
+[![](https://ember-cli-deploy.github.io/ember-cli-deploy-version-badges/plugins/ember-deploy-rest-api.svg)](http://ember-cli-deploy.github.io/ember-cli-deploy-version-badges/)
+
+
 This is the adapter implementation to use
 [ember-deploy](https://github.com/levelbossmike/ember-deploy) with a JSON REST API.
 
